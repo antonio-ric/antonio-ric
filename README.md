@@ -2,7 +2,7 @@
 ## Seja Bem vindo ao meu perfil
 
 
-- 🔭 Atualmente estou fazendo  curso de Desenvolvedor Full Stack
+<!-- 🔭 Atualmente estou fazendo  curso de Desenvolvedor Full Stack -->
 - 🌱 Estou aprendendo JavaScript 
 - 😄 Pronomes: Ele/Dele
 
