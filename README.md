@@ -34,11 +34,15 @@
 <div> 
   <a href="https://www.linkedin.com/in/antonio-ric" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/antonio_r1c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" color="black" target="_blank"></a>
+</div>
   
  
  ![Snake animation](https://github.com/antonio-ric/antonio-ric/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=antonio-ric&repo=antonio-ric&theme=react)](https://github.com/antonio-ric/antonio-ric)
+
+
 
  
  
